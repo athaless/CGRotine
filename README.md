@@ -1,4 +1,4 @@
-# CGRotines
+# Computer Graphic Rotines
 
 Computer Graphic 2D/3D primitives routines. 
 This is a simple implementation for grafical primitis (viewport, observer, cam, etc...) .
@@ -12,7 +12,7 @@ This is a simple implementation for grafical primitis (viewport, observer, cam, 
   <tr>
     <td><img src="./_/CGRotines_Image4.jpg"></td>
     <td><img src="./_/CGRotines_Image5.jpg"></td>
-    <td><img src="./_/CGRotines_Image6.jpg"></td>
+    <td></td>
   </tr>
 </table>
 
