@@ -1,6 +1,6 @@
 # Computer Graphic Rotines
 
-Computer Graphic 2D/3D primitives routines. 
+Computer Graphic 2D/3D primitives routines.<br>
 This is a simple implementation for grafical primitis (viewport, observer, cam, etc...) .
 
 <table width:100%>
@@ -16,3 +16,4 @@ This is a simple implementation for grafical primitis (viewport, observer, cam, 
   </tr>
 </table>
 
+All files ".exe" should be run well on a DOSBox (in fact that was the way I got these screenshots above).
